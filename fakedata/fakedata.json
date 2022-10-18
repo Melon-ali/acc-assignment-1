@@ -1,0 +1,10 @@
+[
+    {"id":1,"gender":"male","name":"Md Melon Ali","contact":"01700000000","address":"Chapai","photoUrl":"http://photo.com"},
+    {"id":2,"gender":"male","name":"Md Sobuj Ali","contact":"01700000000","address":"Chapai","photoUrl":"http://photo.com"},
+    {"id":3,"gender":"male","name":"Md Hemel Ali","contact":"01700000000","address":"Chapai","photoUrl":"http://photo.com"},
+    {"id":4,"gender":"male","name":"Md Juwel Ali","contact":"01700000000","address":"Chapai","photoUrl":"http://photo.com"},
+    {"id":5,"gender":"male","name":"Md Selim Ali","contact":"01700000000","address":"Chapai","photoUrl":"http://photo.com"},
+    {"id":6,"gender":"male","name":"Md Tasir Ali","contact":"01700000000","address":"Chapai","photoUrl":"http://photo.com"},
+    {"id":7,"gender":"male","name":"Md Dulal Ali","contact":"01700000000","address":"Chapai","photoUrl":"http://photo.com"},
+    {"id":8,"gender":"male","name":"Md Rubel Ali","contact":"01700000000","address":"Chapai","photoUrl":"http://photo.com"}
+]
